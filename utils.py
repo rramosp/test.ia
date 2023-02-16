@@ -1,4 +1,4 @@
-def f(x, y):
+def f(x, z):
     return x**5
 
 def h(x):
